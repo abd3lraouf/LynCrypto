@@ -1,6 +1,11 @@
 # LynCrypto
 LynCrypto is a java application used to decrypt Lynda courses downloaded using their Desktop application.
 
+## Prerequisites
+1. `JRE 1.8`
+2. `Lynda.com Desktop App` installed
+3. Download offline some courses using the lynda app.
+
 ## Usage 
 1. Determine `Lynda.com Desktop App` save path see the prics :
 
